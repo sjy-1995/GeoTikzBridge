@@ -1,0 +1,16 @@
+{
+  "Geometry_instruction_train": {
+    "root": "",
+    "annotation": "(Path to) InternVL_train_Geometry_with_length_20250724.json",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 324775
+  },
+  "DaTikZ_instruction_train": {
+    "root": "",
+    "annotation": "(Path to) InternVL_train_20250708.json",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 95762
+  }
+}

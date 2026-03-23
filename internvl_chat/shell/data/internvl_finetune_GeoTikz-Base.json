@@ -1,0 +1,30 @@
+{
+  "DaTikZ": {
+    "root": "",
+    "annotation": "(Path to) datikz_train_145k_with_length.json",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 145366
+  },
+  "DaTikZ_420_fully_augmentation": {
+    "root": "",
+    "annotation": "(Path to) DaTikZ_train_fully_augmented_420.json",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 462609
+  },
+  "MMdata_85W": {
+    "root": "",
+    "annotation": "(Path to) multi_datasets_augmented_85W_v1.json",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 847747
+  },
+  "SS_MMdata_100W": {
+    "root": "",
+    "annotation": "(Path to) multi_datasets_codeaugmented_augmented_100W.json",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 997846
+  }
+}

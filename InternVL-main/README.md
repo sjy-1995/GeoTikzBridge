@@ -28,8 +28,8 @@ Modify the model path and output path in `./internvl_chat/shell/internvl2.0/2nd_
 
 ### Model & Dataset 🤗
 Pretrained Models:
-  - FigCodifier-8B: [![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/sjy-1995/GeoTikzBridge)
-  - InternVL3.5-38B-Instruct: [![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/sjy-1995/GeoTikzBridge)
+  - FigCodifier-8B: [![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/MathLLMs/FigCodifier)
+  - InternVL3.5-38B-Instruct: [![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/OpenGVLab/InternVL3_5-38B)
 
 Training Datasets:
   - GeoTikz-Base dataset (about 2.5M): [![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-orange)](https://huggingface.co/datasets/sjy-1995/GeoCode-10K)

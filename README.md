@@ -1,6 +1,6 @@
 
 
-![Image text](https://github.com/sjy-1995/GeoTikzBridge-Advancing-Multimodal-Code-Generation-for-Geometric-Perception-and-Reasoning/blob/main/presentation_images/Fig_Geo2TikZ_results_less_v3.pdf)
+![Image text](https://github.com/sjy-1995/GeoTikzBridge-Advancing-Multimodal-Code-Generation-for-Geometric-Perception-and-Reasoning/blob/main/presentation_images/Img-to-Tikz-samples-by-GeoTikz-Base.png)
 
 
 ## Citation

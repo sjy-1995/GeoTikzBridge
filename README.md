@@ -1,7 +1,9 @@
-
-
+# Visualization
+Examples of Image-to-Tikz(Rendered to Image) Visualization by GeoTikz-Base:
 ![Image text](https://github.com/sjy-1995/GeoTikzBridge-Advancing-Multimodal-Code-Generation-for-Geometric-Perception-and-Reasoning/blob/main/presentation_images/Img-to-Tikz-samples-by-GeoTikz-Base.png)
 
+Examples of Instruction-Guided Auxiliary Line Generation(Rendered to Image) Visualization by GeoTikz-Instruct:
+![Image text](https://github.com/sjy-1995/GeoTikzBridge-Advancing-Multimodal-Code-Generation-for-Geometric-Perception-and-Reasoning/blob/main/presentation_images/Img-to-Tikz-samples-by-GeoTikz-Instruct.png)
 
 ## Citation
 Please cite the paper if you use our data, model or code.

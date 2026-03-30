@@ -32,8 +32,13 @@ Pretrained Models:
   - InternVL3.5-38B-Instruct: [![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/OpenGVLab/InternVL3_5-38B)https://huggingface.co/OpenGVLab/InternVL3_5-38B
 
 Training Datasets:
-  - GeoTikz-Base dataset (about 2.5M): [![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-orange)](https://huggingface.co/datasets/sjy-1995/GeoCode-10K)
-  - GeoTikz-Instruct dataset (about 419k): [![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-orange)](https://huggingface.co/datasets/sjy-1995/GeoCode-10K)
+  - GeoTikz-Base dataset (about 2.5M): [![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-orange)](https://huggingface.co/datasets/SJY-1995/GeoTikz-Base)https://huggingface.co/datasets/SJY-1995/GeoTikz-Base
+  - GeoTikz-Instruct dataset (about 419k): [![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-orange)](https://huggingface.co/datasets/SJY-1995/GeoTikz-Instruct)https://huggingface.co/datasets/SJY-1995/GeoTikz-Instruct
+
+Trained Models:
+  - GeoTikzBridge-Base model (8B): [![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/models/SJY-1995/GeoTikzBridge-Base-8B)https://huggingface.co/models/SJY-1995/GeoTikzBridge-Base-8B
+  - GeoTikzBridge-Base model (38B): [![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/models/SJY-1995/GeoTikzBridge-Base-38B)https://huggingface.co/models/SJY-1995/GeoTikzBridge-Base-38B
+  - GeoTikzBridge-Instruct model (8B): [![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/models/SJY-1995/GeoTikzBridge-Instruct)https://huggingface.co/models/SJY-1995/GeoTikzBridge-Instruct
 
 ### 2.3 Run
 ```bash
